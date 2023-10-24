@@ -12,4 +12,4 @@ Se añade el enunciado de la práctica junto con nuestra memoria y script.
 | Nombre | GitHub |
 |----------|----------|
 | Yago Navarrete| https://github.com/OkachuX |
-| Santiago Ramos Gómez | https://github.com/sRamosg2018 |
+| Santiago Ramos Gómez | https://github.com/samidhdk |
